@@ -1,4 +1,9 @@
 # NetworkSimulator
+Simulador de redes 
+2019 Gutsavo Del Dago
+
+Proyecto derivado de:
+
 Educational Network Simulator Project
 
 Check out the project's webpage at: http://projects.bardok.net/educational-network-simulator/
