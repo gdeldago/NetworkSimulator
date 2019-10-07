@@ -1,6 +1,7 @@
 # NetworkSimulator
-Simulador de redes 
-2019 Gutsavo Del Dago
+Simulador de redes
+
+2019 Gustavo Del Dago
 
 Proyecto derivado de:
 
